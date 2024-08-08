@@ -1,4 +1,4 @@
-# GANs_Generate_Realistic_Celebrity_Images_Machine_Learning
+# GANs_Generate_Realistic_Celebrity_Images_ML
 Generative Adversarial Networks (GANs) to Image Generater
 
 This project demonstrates a full-stack machine learning application using Generative Adversarial Networks (GANs) to generate images. The model is trained using the CelebA dataset and deployed as a web application using Flask.
