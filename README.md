@@ -49,6 +49,8 @@ Frontend Development (HTML/CSS/JavaScript): Develop a user interface for interac
 
 Deployment: Deploy the Flask application on a cloud platform like Heroku.
 
+<hr/>
+
 ### Business Context:
 
 In the age of rapid digital transformation, there is an increasing demand for innovative image-generation applications across various industries, from entertainment and gaming to e-commerce and social media. Generative Adversarial Networks (GANs) have shown remarkable potential in creating realistic synthetic images, which can reduce costs and time associated with traditional image production. For example, in e-commerce, GANs can be used to generate synthetic product images, allowing for more diverse product displays without needing to produce each physical item. Similarly, in social media, GANs can generate avatars or enhance user experiences by creating unique and customizable digital content.
