@@ -10,7 +10,6 @@ This project demonstrates a full-stack machine learning application using Genera
 -  [Business Context](#business-context)
 -  [Problem Statement](#problem-statement)
 -  [Desired Outcome](#desired-outcome)
--  [Author](#author)
 -  [References](#references)
 
 <br/>
@@ -85,12 +84,6 @@ The desired outcomes for this GAN image generator project are as follows:
   -Establish a Full-Stack Machine Learning Showcase
 
 <br/>
-<br/>
-
-## Author
-
-* **Rishabh Kumar** - Initial work and development
-
 <br/>
 
 ## References
